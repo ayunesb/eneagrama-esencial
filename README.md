@@ -1,17 +1,20 @@
-# ENNEA — Lupe Naredo
+# Eneagrama Esencial (ENNEA)
 
-Plataforma web de eneagrama: test, tipos, cursos, sesiones y biblioteca.
+Plataforma web estática: test de 40 preguntas, enciclopedia de los 9 tipos, cursos, sesiones y biblioteca.
 
-Sitio estático listo para Vercel.
+- GitHub: https://github.com/ayunesb/eneagrama-esencial
+- Sitio: https://eneagrama-esencial.vercel.app
 
-## Local
+## Contenido
 
-Abre `index.html` o:
+- Home con símbolo clicable, 9 tipos, cursos, eventos y testimonios
+- Enciclopedia (miedo, deseo, alas, flechas, centros, instintos)
+- Test 36 Likert + 4 situacionales
+- Resultado: ranking de los 9, ala, flechas
+- Cursos, sesiones y biblioteca
+- Login / registro / perfil (localStorage; demo sin backend)
+- FAQ, nosotros, términos y privacidad
 
-```bash
-npx serve .
-```
+## Deploy (Vercel)
 
-## Vercel
-
-Root del proyecto = esta carpeta. Framework: Other.
+Root: `.` · Framework: Other · Sin build.
