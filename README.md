@@ -1,4 +1,22 @@
-# Eneagrama Esencial (ENNEA)
+# ⚠️ Deprecado — usa rork-eneagrama-esencial-platform
+
+Este repositorio (sitio estático "ENNEA · Lupe Naredo") ya no se mantiene.
+
+Todo su contenido útil (la marca ENNEA/Lupe Naredo, el test de 40 preguntas,
+la enciclopedia de los 9 tipos, y el instructor único) se fusionó en la
+aplicación Expo/React Native real del mismo producto:
+
+👉 **https://github.com/ayunesb/rork-eneagrama-esencial-platform**
+
+Ese repositorio tiene backend real (Firebase, tRPC, pagos), autenticación,
+y es el que se publica en App Store / Google Play / web. Este sitio estático
+se queda como referencia histórica solamente.
+
+Si llegaste aquí buscando el proyecto activo, usa el enlace de arriba.
+
+---
+
+# Eneagrama Esencial (ENNEA) — archivo histórico
 
 Plataforma web estática: test de 40 preguntas, enciclopedia de los 9 tipos, cursos, sesiones y biblioteca.
 
